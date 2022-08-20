@@ -1,4 +1,4 @@
-# PhotoPciker
+# PhotoPicker
 
 Example of the new PhotoPicker in SwiftUI.  Shows:
 1. `PhotoPicker`
